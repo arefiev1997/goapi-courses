@@ -1,0 +1,5 @@
+[server]
+port = 8081
+
+[database]
+connection_string = "postgres://postgres:password@localhost:5433/goapi?sslmode=disable"
